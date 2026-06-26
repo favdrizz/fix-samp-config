@@ -11,7 +11,11 @@
   "servers": [
     {
       "name": "LS-RP Turkey",
-      "match": ["77.83.200.38", "ls-rp.tr", "lsrp"],
+      "match": [
+        "77.83.200.38",
+        "ls-rp.tr",
+        "lsrp"
+      ],
       "large_image": "lsrp",
       "large_text": "LS-RP Turkey",
       "small_image": "",
