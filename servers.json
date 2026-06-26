@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "default": {
+    "large_image": "gtasa",
+    "large_text": "Grand Theft Auto: San Andreas",
+    "small_image": "",
+    "small_text": "",
+    "state_format": "{ip}:{port} ({players}/{maxplayers} online)",
+    "details_format": "{servername}"
+  },
+  "servers": [
+    {
+      "name": "LS-RP Turkey",
+      "match": ["77.83.200.38", "ls-rp.tr", "lsrp"],
+      "large_image": "lsrp",
+      "large_text": "LS-RP Turkey",
+      "small_image": "",
+      "small_text": "",
+      "state_format": "play.ls-rp.tr:7777 ({players}/{maxplayers} online)",
+      "details_format": "{servername}"
+    }
+  ]
+}
