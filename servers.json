@@ -25,3 +25,15 @@
     }
   ]
 }
+{
+  "name": "LS-Deathmatch",
+  "match": [
+    "185.158.151.106"
+  ],
+  "large_image": "lsdm",
+  "large_text": "LS-Deathmatch",
+  "small_image": "",
+  "small_text": "",
+  "state_format": "185.158.151.106:7777 ({players}/{maxplayers} online)",
+  "details_format": "{servername}"
+}
